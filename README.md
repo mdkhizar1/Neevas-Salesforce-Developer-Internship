@@ -14,7 +14,7 @@ During my Salesforce Development Internship at Neevas, I worked on several hands
 - **Skills**: Responsive design, mobile optimization, account and lead management.
 
 ### 3️⃣ Custom Lightning Web Component
-- **Description**: Set up Salesforce DX, CLI, and Visual Studio to create and deploy Lightning Web Component.
+- **Description**: Set up Salesforce DX, CLI, and Visual Studio to create Lightning Web Component.
 - **Skills**: Salesforce DX setup, LWC basics, CLI and Visual Studio integration.
 
 ### 4️⃣ Mobile Development for Lightning Web Components (LWC)
