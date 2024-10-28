@@ -1,4 +1,4 @@
-# Neevas Virtual Salesforce Internship Projects
+# Neevas Salesforce Virtual Internship Projects
 
 During my Salesforce Development Internship at Neevas, I worked on several hands-on Trailhead projects. This repository highlights each project, its purpose, and the skills I gained.
 
